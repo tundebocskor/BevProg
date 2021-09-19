@@ -2,6 +2,7 @@
 int main() {
 
 	cout << "Hello word!\n";
+	keep_window_open();
 	return 0;
 
 }
